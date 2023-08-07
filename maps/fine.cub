@@ -1,0 +1,28 @@
+      SO	 ./textures/brick.xpm
+			
+			
+			F   220,100,0
+EA./textures/metal.xpm
+NO./textures/grass.xpm
+
+
+
+
+
+
+
+
+
+
+	WE./textures/stone.xpm
+
+	C255,30,0
+
+111111111
+1N0000001
+100000001
+100010001
+100000001
+101100001
+100000001
+111111111
